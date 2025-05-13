@@ -1,0 +1,10 @@
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.Form1.resources
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.Properties.Resources.resources
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\Egor\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.pdb

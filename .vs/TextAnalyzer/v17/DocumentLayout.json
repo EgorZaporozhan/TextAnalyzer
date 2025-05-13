@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5522C23C-FD58-4B38-B2B3-46F668E6B2AF}|TextAnalyzer\\TextAnalyzer.csproj|c:\\users\\egor\\source\\repos\\textanalyzer\\textanalyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5522C23C-FD58-4B38-B2B3-46F668E6B2AF}|TextAnalyzer\\TextAnalyzer.csproj|solutionrelative:textanalyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5522C23C-FD58-4B38-B2B3-46F668E6B2AF}|TextAnalyzer\\TextAnalyzer.csproj|C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\textanalyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5522C23C-FD58-4B38-B2B3-46F668E6B2AF}|TextAnalyzer\\TextAnalyzer.csproj|solutionrelative:textanalyzer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5522C23C-FD58-4B38-B2B3-46F668E6B2AF}|TextAnalyzer\\TextAnalyzer.csproj|C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\textanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5522C23C-FD58-4B38-B2B3-46F668E6B2AF}|TextAnalyzer\\TextAnalyzer.csproj|solutionrelative:textanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\TextAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "TextAnalyzer\\Program.cs",
+              "ToolTip": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\TextAnalyzer\\Program.cs",
+              "RelativeToolTip": "TextAnalyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:59:47.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\TextAnalyzer\\Form1.cs",
+              "RelativeDocumentMoniker": "TextAnalyzer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\TextAnalyzer\\Form1.cs",
+              "RelativeToolTip": "TextAnalyzer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:59:55.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\TextAnalyzer\\Form1.cs",
+              "RelativeDocumentMoniker": "TextAnalyzer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Egor\\source\\repos\\TextAnalyzer\\TextAnalyzer\\Form1.cs [Design]",
+              "RelativeToolTip": "TextAnalyzer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:58:48.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
